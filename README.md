@@ -1,10 +1,10 @@
-# simpleeventmanagement
+Event_Management
 
 A simple event management website for booking your events with event managersThis is a PHP-based web application for managing events. Users can register and log in to access the homepage, view event packages, fill out a form to organize events, and contact the event manager for additional queries. The application uses MySQL for data storage and is hosted on XAMPP.
 
 ## Installation
 1. Clone the repository:
-  https://github.com/Selvi8903/Event_Management.git ```bash
+  https://github.com/Selvi8903/Event_Management.git
   
   
 
