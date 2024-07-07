@@ -5,7 +5,7 @@ A simple event management website for booking your events with event managersThi
 ## Installation
 1. Clone the repository:
    ```bash
-   https://github.com/nishadevi2309/simpleeventmanagement.git
+  
   
 
 **2.Navigate to the project directory:**
@@ -41,7 +41,7 @@ Go to formpage.php to fill out the necessary details for organizing an event.
 Submit the form to receive a confirmation message as an alert.
 
 6.Contact Event Manager:
-Use contact.php to write any additional queries to the event manager.
+Use connection.php and authentication.php to write any additional queries to the event manager.
 
 **Features:**
 User registration and login.
