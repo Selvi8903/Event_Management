@@ -4,7 +4,7 @@ A simple event management website for booking your events with event managersThi
 
 ## Installation
 1. Clone the repository:
-   ```bash
+  https://github.com/Selvi8903/Event_Management.git ```bash
   
   
 
